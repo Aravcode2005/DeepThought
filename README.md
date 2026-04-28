@@ -120,10 +120,10 @@ consistent across sessions
 Project Structure
   DecisionTree.json    
   README.md
-  mermaid-diagram.png                 
-  write-up.md         
+  mermaid-diagram.png                      
   transcript1.md
   transcript2.md
+  write-up.md
 If implemented, the agent:
 Loads reflection-tree.json
 Starts at START

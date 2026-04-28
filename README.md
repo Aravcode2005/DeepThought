@@ -1,4 +1,4 @@
-# DT-
+# Decision Tree
 Deterministic Daily Reflection Tree
 
 A structured end-of-day reflection system that guides users through a fixed decision tree across three psychological axes—without any LLM at runtime.
